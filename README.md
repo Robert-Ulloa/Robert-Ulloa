@@ -5,6 +5,7 @@
 - 📫 How to reach me roanuc8@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding you'll find me Hiking, cooking, or painting.
+- LikedIn: https://www.linkedin.com/in/roberto-ulloa-30135b317/ 
 - My CV: [Roberto Ulloa CV.docx](https://github.com/user-attachments/files/16060933/Roberto.Ulloa.CV.docx)
 
 
